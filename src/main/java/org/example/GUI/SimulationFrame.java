@@ -28,16 +28,9 @@ public class SimulationFrame {
         frame.setDefaultCloseOperation(WindowConstants.EXIT_ON_CLOSE);
         frame.pack();
         frame.setVisible(true);
-        frame.setSize(750, 550);
+        frame.setSize(800, 550);
         Controller c = new Controller();
         startButton.addActionListener(c.ButtonStart(m));
-
-
-
-
-
-
-
     }
 
     public JButton getRezultatButton() {

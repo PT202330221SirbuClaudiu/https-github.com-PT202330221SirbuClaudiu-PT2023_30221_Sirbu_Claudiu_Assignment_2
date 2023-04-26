@@ -20,7 +20,7 @@ public class SimulationManager implements Runnable
     public int maxArrival;
 
     public int nrServers;
-    public SelectionPolicy selectionPolicy = SelectionPolicy.SHORTEST_TIME;
+    public SelectionPolicy selectionPolicy = SelectionPolicy.SHORTEST_QUEUE;
 
     private Scheduler scheduler;
 
@@ -135,45 +135,62 @@ public class SimulationManager implements Runnable
         int currentTime = 0;
         while (currentTime < timeLimit)
         {
-            try {
-                Thread.sleep(300);
-            } catch (InterruptedException e) {
-                throw new RuntimeException(e);
+            int ok = 0;
+            if(!this.generatedTasks.isEmpty())
+            {
+                ok=1;
             }
-            for(Server s:this.getScheduler().getServers()){
-                synchronized (s.getLacat())
+            for(Server s : this.getScheduler().getServers())
+            {
+                if(!s.eGoala())
                 {
-                    s.getLacat().notifyAll();
+                    ok=1;
+                    break;
                 }
             }
-
-            List<Task> aux=new ArrayList<>();
-
-            for(Task t : this.generatedTasks)
+            if (ok == 1)
             {
-                if(t.getArrivalTime()==currentTime)
-                {
-                    this.scheduler.dispatchTask(t);
-                    aux.add(t);
+                try {
+                    Thread.sleep(1000);
+                } catch (InterruptedException e) {
+                    throw new RuntimeException(e);
                 }
-            }
+                for (Server s : this.getScheduler().getServers()) {
+                    synchronized (s.getLacat()) {
+                        s.getLacat().notifyAll();
+                    }
+                }
 
-            for(Task t : aux)
+                List<Task> aux = new ArrayList<>();
+
+                for (Task t : this.generatedTasks) {
+                    if (t.getArrivalTime() == currentTime) {
+                        this.scheduler.dispatchTask(t);
+                        aux.add(t);
+                    }
+                }
+
+                for (Task t : aux) {
+                    this.generatedTasks.remove(t);
+                }
+
+                this.frame.getTextArea1().setText(this.frame.getTextArea1().getText() + afisare(currentTime));
+                currentTime++;
+            }
+            else
             {
-                this.generatedTasks.remove(t);
+                currentTime=this.timeLimit+1;
             }
-
-            this.frame.getTextArea1().setText(this.frame.getTextArea1().getText()+afisare(currentTime));
-            currentTime++;
         }
+
 
     }
 
     public String afisare(int timp)
     {
         String rez=" \n";
-        rez += "Moment: " + timp + "\n";
-        rez += "Clienti magazin: ";
+        rez += "Momentul: " + timp + "\n";
+        rez += "Clientii din magazin: ";
         for(Task t : this.generatedTasks)
         {
             rez += "Client " + (t.getID()+1) + "(" + t.getArrivalTime() + ", " + t.getServiceTime() + ") ";
@@ -181,7 +198,7 @@ public class SimulationManager implements Runnable
         rez += "\n";
         for(Server s : this.getScheduler().getServers())
         {
-            rez += "Casa " + s.getId() + ": ";
+            rez += "Casa nr " + s.getId() + ": ";
             for(Task t : s.getClienti())
             {
                 rez += "Client " + (t.getID()+1) + "(" + t.getArrivalTime() + ", " + t.getServiceTime() + ") ";
