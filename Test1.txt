@@ -1,0 +1,125 @@
+ 
+Momentul: 0
+Clientii din magazin: Client 1(4, 3) Client 2(7, 2) Client 3(22, 3) Client 4(16, 2) 
+Casa nr 1: 
+Casa nr 2: 
+ 
+Momentul: 1
+Clientii din magazin: Client 1(4, 3) Client 2(7, 2) Client 3(22, 3) Client 4(16, 2) 
+Casa nr 1: 
+Casa nr 2: 
+ 
+Momentul: 2
+Clientii din magazin: Client 1(4, 3) Client 2(7, 2) Client 3(22, 3) Client 4(16, 2) 
+Casa nr 1: 
+Casa nr 2: 
+ 
+Momentul: 3
+Clientii din magazin: Client 1(4, 3) Client 2(7, 2) Client 3(22, 3) Client 4(16, 2) 
+Casa nr 1: 
+Casa nr 2: 
+ 
+Momentul: 4
+Clientii din magazin: Client 2(7, 2) Client 3(22, 3) Client 4(16, 2) 
+Casa nr 1: Client 1(4, 3) 
+Casa nr 2: 
+ 
+Momentul: 5
+Clientii din magazin: Client 2(7, 2) Client 3(22, 3) Client 4(16, 2) 
+Casa nr 1: Client 1(4, 2) 
+Casa nr 2: 
+ 
+Momentul: 6
+Clientii din magazin: Client 2(7, 2) Client 3(22, 3) Client 4(16, 2) 
+Casa nr 1: Client 1(4, 1) 
+Casa nr 2: 
+ 
+Momentul: 7
+Clientii din magazin: Client 3(22, 3) Client 4(16, 2) 
+Casa nr 1: 
+Casa nr 2: Client 2(7, 1) 
+ 
+Momentul: 8
+Clientii din magazin: Client 3(22, 3) Client 4(16, 2) 
+Casa nr 1: 
+Casa nr 2: 
+ 
+Momentul: 9
+Clientii din magazin: Client 3(22, 3) Client 4(16, 2) 
+Casa nr 1: 
+Casa nr 2: 
+ 
+Momentul: 10
+Clientii din magazin: Client 3(22, 3) Client 4(16, 2) 
+Casa nr 1: 
+Casa nr 2: 
+ 
+Momentul: 11
+Clientii din magazin: Client 3(22, 3) Client 4(16, 2) 
+Casa nr 1: 
+Casa nr 2: 
+ 
+Momentul: 12
+Clientii din magazin: Client 3(22, 3) Client 4(16, 2) 
+Casa nr 1: 
+Casa nr 2: 
+ 
+Momentul: 13
+Clientii din magazin: Client 3(22, 3) Client 4(16, 2) 
+Casa nr 1: 
+Casa nr 2: 
+ 
+Momentul: 14
+Clientii din magazin: Client 3(22, 3) Client 4(16, 2) 
+Casa nr 1: 
+Casa nr 2: 
+ 
+Momentul: 15
+Clientii din magazin: Client 3(22, 3) Client 4(16, 2) 
+Casa nr 1: 
+Casa nr 2: 
+ 
+Momentul: 16
+Clientii din magazin: Client 3(22, 3) 
+Casa nr 1: Client 4(16, 1) 
+Casa nr 2: 
+ 
+Momentul: 17
+Clientii din magazin: Client 3(22, 3) 
+Casa nr 1: 
+Casa nr 2: 
+ 
+Momentul: 18
+Clientii din magazin: Client 3(22, 3) 
+Casa nr 1: 
+Casa nr 2: 
+ 
+Momentul: 19
+Clientii din magazin: Client 3(22, 3) 
+Casa nr 1: 
+Casa nr 2: 
+ 
+Momentul: 20
+Clientii din magazin: Client 3(22, 3) 
+Casa nr 1: 
+Casa nr 2: 
+ 
+Momentul: 21
+Clientii din magazin: Client 3(22, 3) 
+Casa nr 1: 
+Casa nr 2: 
+ 
+Momentul: 22
+Clientii din magazin: 
+Casa nr 1: Client 3(22, 2) 
+Casa nr 2: 
+ 
+Momentul: 23
+Clientii din magazin: 
+Casa nr 1: Client 3(22, 1) 
+Casa nr 2: 
+ 
+Momentul: 24
+Clientii din magazin: 
+Casa nr 1: 
+Casa nr 2: 

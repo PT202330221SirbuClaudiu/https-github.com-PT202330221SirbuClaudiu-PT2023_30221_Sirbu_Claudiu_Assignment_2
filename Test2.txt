@@ -1,0 +1,376 @@
+ 
+Momentul: 0
+Clientii din magazin: Client 1(34, 5) Client 2(7, 2) Client 3(26, 3) Client 4(33, 5) Client 5(32, 6) Client 6(28, 3) Client 7(18, 4) Client 8(8, 6) Client 9(37, 4) Client 10(39, 1) Client 11(24, 6) Client 12(15, 5) Client 13(35, 2) Client 14(38, 6) Client 15(30, 1) Client 16(37, 4) Client 17(21, 3) Client 18(2, 5) Client 19(37, 3) Client 20(2, 4) Client 21(18, 4) Client 22(16, 6) Client 23(2, 1) Client 24(31, 1) Client 25(37, 1) Client 26(13, 4) Client 27(10, 2) Client 28(20, 4) Client 29(3, 6) Client 30(9, 4) Client 31(26, 4) Client 32(27, 1) Client 33(39, 5) Client 34(10, 4) Client 35(35, 6) Client 36(27, 4) Client 37(33, 1) Client 38(10, 1) Client 39(17, 4) Client 40(18, 1) Client 41(27, 2) Client 42(39, 2) Client 43(6, 1) Client 44(27, 5) Client 45(15, 4) Client 46(12, 1) Client 47(15, 2) Client 48(5, 5) Client 49(28, 5) Client 50(17, 4) 
+Casa nr 1: 
+Casa nr 2: 
+Casa nr 3: 
+Casa nr 4: 
+Casa nr 5: 
+ 
+Momentul: 1
+Clientii din magazin: Client 1(34, 5) Client 2(7, 2) Client 3(26, 3) Client 4(33, 5) Client 5(32, 6) Client 6(28, 3) Client 7(18, 4) Client 8(8, 6) Client 9(37, 4) Client 10(39, 1) Client 11(24, 6) Client 12(15, 5) Client 13(35, 2) Client 14(38, 6) Client 15(30, 1) Client 16(37, 4) Client 17(21, 3) Client 18(2, 5) Client 19(37, 3) Client 20(2, 4) Client 21(18, 4) Client 22(16, 6) Client 23(2, 1) Client 24(31, 1) Client 25(37, 1) Client 26(13, 4) Client 27(10, 2) Client 28(20, 4) Client 29(3, 6) Client 30(9, 4) Client 31(26, 4) Client 32(27, 1) Client 33(39, 5) Client 34(10, 4) Client 35(35, 6) Client 36(27, 4) Client 37(33, 1) Client 38(10, 1) Client 39(17, 4) Client 40(18, 1) Client 41(27, 2) Client 42(39, 2) Client 43(6, 1) Client 44(27, 5) Client 45(15, 4) Client 46(12, 1) Client 47(15, 2) Client 48(5, 5) Client 49(28, 5) Client 50(17, 4) 
+Casa nr 1: 
+Casa nr 2: 
+Casa nr 3: 
+Casa nr 4: 
+Casa nr 5: 
+ 
+Momentul: 2
+Clientii din magazin: Client 1(34, 5) Client 2(7, 2) Client 3(26, 3) Client 4(33, 5) Client 5(32, 6) Client 6(28, 3) Client 7(18, 4) Client 8(8, 6) Client 9(37, 4) Client 10(39, 1) Client 11(24, 6) Client 12(15, 5) Client 13(35, 2) Client 14(38, 6) Client 15(30, 1) Client 16(37, 4) Client 17(21, 3) Client 19(37, 3) Client 21(18, 4) Client 22(16, 6) Client 24(31, 1) Client 25(37, 1) Client 26(13, 4) Client 27(10, 2) Client 28(20, 4) Client 29(3, 6) Client 30(9, 4) Client 31(26, 4) Client 32(27, 1) Client 33(39, 5) Client 34(10, 4) Client 35(35, 6) Client 36(27, 4) Client 37(33, 1) Client 38(10, 1) Client 39(17, 4) Client 40(18, 1) Client 41(27, 2) Client 42(39, 2) Client 43(6, 1) Client 44(27, 5) Client 45(15, 4) Client 46(12, 1) Client 47(15, 2) Client 48(5, 5) Client 49(28, 5) Client 50(17, 4) 
+Casa nr 1: Client 18(2, 5) 
+Casa nr 2: Client 20(2, 4) 
+Casa nr 3: Client 23(2, 1) 
+Casa nr 4: 
+Casa nr 5: 
+ 
+Momentul: 3
+Clientii din magazin: Client 1(34, 5) Client 2(7, 2) Client 3(26, 3) Client 4(33, 5) Client 5(32, 6) Client 6(28, 3) Client 7(18, 4) Client 8(8, 6) Client 9(37, 4) Client 10(39, 1) Client 11(24, 6) Client 12(15, 5) Client 13(35, 2) Client 14(38, 6) Client 15(30, 1) Client 16(37, 4) Client 17(21, 3) Client 19(37, 3) Client 21(18, 4) Client 22(16, 6) Client 24(31, 1) Client 25(37, 1) Client 26(13, 4) Client 27(10, 2) Client 28(20, 4) Client 30(9, 4) Client 31(26, 4) Client 32(27, 1) Client 33(39, 5) Client 34(10, 4) Client 35(35, 6) Client 36(27, 4) Client 37(33, 1) Client 38(10, 1) Client 39(17, 4) Client 40(18, 1) Client 41(27, 2) Client 42(39, 2) Client 43(6, 1) Client 44(27, 5) Client 45(15, 4) Client 46(12, 1) Client 47(15, 2) Client 48(5, 5) Client 49(28, 5) Client 50(17, 4) 
+Casa nr 1: Client 18(2, 4) 
+Casa nr 2: Client 20(2, 3) 
+Casa nr 3: 
+Casa nr 4: Client 29(3, 5) 
+Casa nr 5: 
+ 
+Momentul: 4
+Clientii din magazin: Client 1(34, 5) Client 2(7, 2) Client 3(26, 3) Client 4(33, 5) Client 5(32, 6) Client 6(28, 3) Client 7(18, 4) Client 8(8, 6) Client 9(37, 4) Client 10(39, 1) Client 11(24, 6) Client 12(15, 5) Client 13(35, 2) Client 14(38, 6) Client 15(30, 1) Client 16(37, 4) Client 17(21, 3) Client 19(37, 3) Client 21(18, 4) Client 22(16, 6) Client 24(31, 1) Client 25(37, 1) Client 26(13, 4) Client 27(10, 2) Client 28(20, 4) Client 30(9, 4) Client 31(26, 4) Client 32(27, 1) Client 33(39, 5) Client 34(10, 4) Client 35(35, 6) Client 36(27, 4) Client 37(33, 1) Client 38(10, 1) Client 39(17, 4) Client 40(18, 1) Client 41(27, 2) Client 42(39, 2) Client 43(6, 1) Client 44(27, 5) Client 45(15, 4) Client 46(12, 1) Client 47(15, 2) Client 48(5, 5) Client 49(28, 5) Client 50(17, 4) 
+Casa nr 1: Client 18(2, 3) 
+Casa nr 2: Client 20(2, 2) 
+Casa nr 3: 
+Casa nr 4: Client 29(3, 4) 
+Casa nr 5: 
+ 
+Momentul: 5
+Clientii din magazin: Client 1(34, 5) Client 2(7, 2) Client 3(26, 3) Client 4(33, 5) Client 5(32, 6) Client 6(28, 3) Client 7(18, 4) Client 8(8, 6) Client 9(37, 4) Client 10(39, 1) Client 11(24, 6) Client 12(15, 5) Client 13(35, 2) Client 14(38, 6) Client 15(30, 1) Client 16(37, 4) Client 17(21, 3) Client 19(37, 3) Client 21(18, 4) Client 22(16, 6) Client 24(31, 1) Client 25(37, 1) Client 26(13, 4) Client 27(10, 2) Client 28(20, 4) Client 30(9, 4) Client 31(26, 4) Client 32(27, 1) Client 33(39, 5) Client 34(10, 4) Client 35(35, 6) Client 36(27, 4) Client 37(33, 1) Client 38(10, 1) Client 39(17, 4) Client 40(18, 1) Client 41(27, 2) Client 42(39, 2) Client 43(6, 1) Client 44(27, 5) Client 45(15, 4) Client 46(12, 1) Client 47(15, 2) Client 49(28, 5) Client 50(17, 4) 
+Casa nr 1: Client 18(2, 2) 
+Casa nr 2: Client 20(2, 1) 
+Casa nr 3: Client 48(5, 5) 
+Casa nr 4: Client 29(3, 3) 
+Casa nr 5: 
+ 
+Momentul: 6
+Clientii din magazin: Client 1(34, 5) Client 2(7, 2) Client 3(26, 3) Client 4(33, 5) Client 5(32, 6) Client 6(28, 3) Client 7(18, 4) Client 8(8, 6) Client 9(37, 4) Client 10(39, 1) Client 11(24, 6) Client 12(15, 5) Client 13(35, 2) Client 14(38, 6) Client 15(30, 1) Client 16(37, 4) Client 17(21, 3) Client 19(37, 3) Client 21(18, 4) Client 22(16, 6) Client 24(31, 1) Client 25(37, 1) Client 26(13, 4) Client 27(10, 2) Client 28(20, 4) Client 30(9, 4) Client 31(26, 4) Client 32(27, 1) Client 33(39, 5) Client 34(10, 4) Client 35(35, 6) Client 36(27, 4) Client 37(33, 1) Client 38(10, 1) Client 39(17, 4) Client 40(18, 1) Client 41(27, 2) Client 42(39, 2) Client 44(27, 5) Client 45(15, 4) Client 46(12, 1) Client 47(15, 2) Client 49(28, 5) Client 50(17, 4) 
+Casa nr 1: Client 18(2, 1) 
+Casa nr 2: Client 43(6, 1) 
+Casa nr 3: Client 48(5, 4) 
+Casa nr 4: Client 29(3, 2) 
+Casa nr 5: 
+ 
+Momentul: 7
+Clientii din magazin: Client 1(34, 5) Client 3(26, 3) Client 4(33, 5) Client 5(32, 6) Client 6(28, 3) Client 7(18, 4) Client 8(8, 6) Client 9(37, 4) Client 10(39, 1) Client 11(24, 6) Client 12(15, 5) Client 13(35, 2) Client 14(38, 6) Client 15(30, 1) Client 16(37, 4) Client 17(21, 3) Client 19(37, 3) Client 21(18, 4) Client 22(16, 6) Client 24(31, 1) Client 25(37, 1) Client 26(13, 4) Client 27(10, 2) Client 28(20, 4) Client 30(9, 4) Client 31(26, 4) Client 32(27, 1) Client 33(39, 5) Client 34(10, 4) Client 35(35, 6) Client 36(27, 4) Client 37(33, 1) Client 38(10, 1) Client 39(17, 4) Client 40(18, 1) Client 41(27, 2) Client 42(39, 2) Client 44(27, 5) Client 45(15, 4) Client 46(12, 1) Client 47(15, 2) Client 49(28, 5) Client 50(17, 4) 
+Casa nr 1: Client 2(7, 2) 
+Casa nr 2: 
+Casa nr 3: Client 48(5, 3) 
+Casa nr 4: Client 29(3, 1) 
+Casa nr 5: 
+ 
+Momentul: 8
+Clientii din magazin: Client 1(34, 5) Client 3(26, 3) Client 4(33, 5) Client 5(32, 6) Client 6(28, 3) Client 7(18, 4) Client 9(37, 4) Client 10(39, 1) Client 11(24, 6) Client 12(15, 5) Client 13(35, 2) Client 14(38, 6) Client 15(30, 1) Client 16(37, 4) Client 17(21, 3) Client 19(37, 3) Client 21(18, 4) Client 22(16, 6) Client 24(31, 1) Client 25(37, 1) Client 26(13, 4) Client 27(10, 2) Client 28(20, 4) Client 30(9, 4) Client 31(26, 4) Client 32(27, 1) Client 33(39, 5) Client 34(10, 4) Client 35(35, 6) Client 36(27, 4) Client 37(33, 1) Client 38(10, 1) Client 39(17, 4) Client 40(18, 1) Client 41(27, 2) Client 42(39, 2) Client 44(27, 5) Client 45(15, 4) Client 46(12, 1) Client 47(15, 2) Client 49(28, 5) Client 50(17, 4) 
+Casa nr 1: Client 2(7, 1) 
+Casa nr 2: Client 8(8, 6) 
+Casa nr 3: Client 48(5, 2) 
+Casa nr 4: 
+Casa nr 5: 
+ 
+Momentul: 9
+Clientii din magazin: Client 1(34, 5) Client 3(26, 3) Client 4(33, 5) Client 5(32, 6) Client 6(28, 3) Client 7(18, 4) Client 9(37, 4) Client 10(39, 1) Client 11(24, 6) Client 12(15, 5) Client 13(35, 2) Client 14(38, 6) Client 15(30, 1) Client 16(37, 4) Client 17(21, 3) Client 19(37, 3) Client 21(18, 4) Client 22(16, 6) Client 24(31, 1) Client 25(37, 1) Client 26(13, 4) Client 27(10, 2) Client 28(20, 4) Client 31(26, 4) Client 32(27, 1) Client 33(39, 5) Client 34(10, 4) Client 35(35, 6) Client 36(27, 4) Client 37(33, 1) Client 38(10, 1) Client 39(17, 4) Client 40(18, 1) Client 41(27, 2) Client 42(39, 2) Client 44(27, 5) Client 45(15, 4) Client 46(12, 1) Client 47(15, 2) Client 49(28, 5) Client 50(17, 4) 
+Casa nr 1: Client 30(9, 4) 
+Casa nr 2: Client 8(8, 5) 
+Casa nr 3: Client 48(5, 1) 
+Casa nr 4: 
+Casa nr 5: 
+ 
+Momentul: 10
+Clientii din magazin: Client 1(34, 5) Client 3(26, 3) Client 4(33, 5) Client 5(32, 6) Client 6(28, 3) Client 7(18, 4) Client 9(37, 4) Client 10(39, 1) Client 11(24, 6) Client 12(15, 5) Client 13(35, 2) Client 14(38, 6) Client 15(30, 1) Client 16(37, 4) Client 17(21, 3) Client 19(37, 3) Client 21(18, 4) Client 22(16, 6) Client 24(31, 1) Client 25(37, 1) Client 26(13, 4) Client 28(20, 4) Client 31(26, 4) Client 32(27, 1) Client 33(39, 5) Client 35(35, 6) Client 36(27, 4) Client 37(33, 1) Client 39(17, 4) Client 40(18, 1) Client 41(27, 2) Client 42(39, 2) Client 44(27, 5) Client 45(15, 4) Client 46(12, 1) Client 47(15, 2) Client 49(28, 5) Client 50(17, 4) 
+Casa nr 1: Client 30(9, 3) 
+Casa nr 2: Client 8(8, 4) 
+Casa nr 3: Client 27(10, 2) 
+Casa nr 4: Client 34(10, 4) 
+Casa nr 5: Client 38(10, 1) 
+ 
+Momentul: 11
+Clientii din magazin: Client 1(34, 5) Client 3(26, 3) Client 4(33, 5) Client 5(32, 6) Client 6(28, 3) Client 7(18, 4) Client 9(37, 4) Client 10(39, 1) Client 11(24, 6) Client 12(15, 5) Client 13(35, 2) Client 14(38, 6) Client 15(30, 1) Client 16(37, 4) Client 17(21, 3) Client 19(37, 3) Client 21(18, 4) Client 22(16, 6) Client 24(31, 1) Client 25(37, 1) Client 26(13, 4) Client 28(20, 4) Client 31(26, 4) Client 32(27, 1) Client 33(39, 5) Client 35(35, 6) Client 36(27, 4) Client 37(33, 1) Client 39(17, 4) Client 40(18, 1) Client 41(27, 2) Client 42(39, 2) Client 44(27, 5) Client 45(15, 4) Client 46(12, 1) Client 47(15, 2) Client 49(28, 5) Client 50(17, 4) 
+Casa nr 1: Client 30(9, 2) 
+Casa nr 2: Client 8(8, 3) 
+Casa nr 3: Client 27(10, 1) 
+Casa nr 4: Client 34(10, 3) 
+Casa nr 5: 
+ 
+Momentul: 12
+Clientii din magazin: Client 1(34, 5) Client 3(26, 3) Client 4(33, 5) Client 5(32, 6) Client 6(28, 3) Client 7(18, 4) Client 9(37, 4) Client 10(39, 1) Client 11(24, 6) Client 12(15, 5) Client 13(35, 2) Client 14(38, 6) Client 15(30, 1) Client 16(37, 4) Client 17(21, 3) Client 19(37, 3) Client 21(18, 4) Client 22(16, 6) Client 24(31, 1) Client 25(37, 1) Client 26(13, 4) Client 28(20, 4) Client 31(26, 4) Client 32(27, 1) Client 33(39, 5) Client 35(35, 6) Client 36(27, 4) Client 37(33, 1) Client 39(17, 4) Client 40(18, 1) Client 41(27, 2) Client 42(39, 2) Client 44(27, 5) Client 45(15, 4) Client 47(15, 2) Client 49(28, 5) Client 50(17, 4) 
+Casa nr 1: Client 30(9, 1) 
+Casa nr 2: Client 8(8, 2) 
+Casa nr 3: Client 46(12, 1) 
+Casa nr 4: Client 34(10, 2) 
+Casa nr 5: 
+ 
+Momentul: 13
+Clientii din magazin: Client 1(34, 5) Client 3(26, 3) Client 4(33, 5) Client 5(32, 6) Client 6(28, 3) Client 7(18, 4) Client 9(37, 4) Client 10(39, 1) Client 11(24, 6) Client 12(15, 5) Client 13(35, 2) Client 14(38, 6) Client 15(30, 1) Client 16(37, 4) Client 17(21, 3) Client 19(37, 3) Client 21(18, 4) Client 22(16, 6) Client 24(31, 1) Client 25(37, 1) Client 28(20, 4) Client 31(26, 4) Client 32(27, 1) Client 33(39, 5) Client 35(35, 6) Client 36(27, 4) Client 37(33, 1) Client 39(17, 4) Client 40(18, 1) Client 41(27, 2) Client 42(39, 2) Client 44(27, 5) Client 45(15, 4) Client 47(15, 2) Client 49(28, 5) Client 50(17, 4) 
+Casa nr 1: Client 26(13, 4) 
+Casa nr 2: Client 8(8, 1) 
+Casa nr 3: 
+Casa nr 4: Client 34(10, 1) 
+Casa nr 5: 
+ 
+Momentul: 14
+Clientii din magazin: Client 1(34, 5) Client 3(26, 3) Client 4(33, 5) Client 5(32, 6) Client 6(28, 3) Client 7(18, 4) Client 9(37, 4) Client 10(39, 1) Client 11(24, 6) Client 12(15, 5) Client 13(35, 2) Client 14(38, 6) Client 15(30, 1) Client 16(37, 4) Client 17(21, 3) Client 19(37, 3) Client 21(18, 4) Client 22(16, 6) Client 24(31, 1) Client 25(37, 1) Client 28(20, 4) Client 31(26, 4) Client 32(27, 1) Client 33(39, 5) Client 35(35, 6) Client 36(27, 4) Client 37(33, 1) Client 39(17, 4) Client 40(18, 1) Client 41(27, 2) Client 42(39, 2) Client 44(27, 5) Client 45(15, 4) Client 47(15, 2) Client 49(28, 5) Client 50(17, 4) 
+Casa nr 1: Client 26(13, 3) 
+Casa nr 2: 
+Casa nr 3: 
+Casa nr 4: 
+Casa nr 5: 
+ 
+Momentul: 15
+Clientii din magazin: Client 1(34, 5) Client 3(26, 3) Client 4(33, 5) Client 5(32, 6) Client 6(28, 3) Client 7(18, 4) Client 9(37, 4) Client 10(39, 1) Client 11(24, 6) Client 13(35, 2) Client 14(38, 6) Client 15(30, 1) Client 16(37, 4) Client 17(21, 3) Client 19(37, 3) Client 21(18, 4) Client 22(16, 6) Client 24(31, 1) Client 25(37, 1) Client 28(20, 4) Client 31(26, 4) Client 32(27, 1) Client 33(39, 5) Client 35(35, 6) Client 36(27, 4) Client 37(33, 1) Client 39(17, 4) Client 40(18, 1) Client 41(27, 2) Client 42(39, 2) Client 44(27, 5) Client 49(28, 5) Client 50(17, 4) 
+Casa nr 1: Client 26(13, 2) 
+Casa nr 2: Client 12(15, 5) 
+Casa nr 3: Client 45(15, 4) 
+Casa nr 4: Client 47(15, 2) 
+Casa nr 5: 
+ 
+Momentul: 16
+Clientii din magazin: Client 1(34, 5) Client 3(26, 3) Client 4(33, 5) Client 5(32, 6) Client 6(28, 3) Client 7(18, 4) Client 9(37, 4) Client 10(39, 1) Client 11(24, 6) Client 13(35, 2) Client 14(38, 6) Client 15(30, 1) Client 16(37, 4) Client 17(21, 3) Client 19(37, 3) Client 21(18, 4) Client 24(31, 1) Client 25(37, 1) Client 28(20, 4) Client 31(26, 4) Client 32(27, 1) Client 33(39, 5) Client 35(35, 6) Client 36(27, 4) Client 37(33, 1) Client 39(17, 4) Client 40(18, 1) Client 41(27, 2) Client 42(39, 2) Client 44(27, 5) Client 49(28, 5) Client 50(17, 4) 
+Casa nr 1: Client 26(13, 1) 
+Casa nr 2: Client 12(15, 4) 
+Casa nr 3: Client 45(15, 3) 
+Casa nr 4: Client 47(15, 1) 
+Casa nr 5: Client 22(16, 6) 
+ 
+Momentul: 17
+Clientii din magazin: Client 1(34, 5) Client 3(26, 3) Client 4(33, 5) Client 5(32, 6) Client 6(28, 3) Client 7(18, 4) Client 9(37, 4) Client 10(39, 1) Client 11(24, 6) Client 13(35, 2) Client 14(38, 6) Client 15(30, 1) Client 16(37, 4) Client 17(21, 3) Client 19(37, 3) Client 21(18, 4) Client 24(31, 1) Client 25(37, 1) Client 28(20, 4) Client 31(26, 4) Client 32(27, 1) Client 33(39, 5) Client 35(35, 6) Client 36(27, 4) Client 37(33, 1) Client 40(18, 1) Client 41(27, 2) Client 42(39, 2) Client 44(27, 5) Client 49(28, 5) 
+Casa nr 1: Client 39(17, 4) 
+Casa nr 2: Client 12(15, 3) 
+Casa nr 3: Client 45(15, 2) 
+Casa nr 4: Client 50(17, 4) 
+Casa nr 5: Client 22(16, 5) 
+ 
+Momentul: 18
+Clientii din magazin: Client 1(34, 5) Client 3(26, 3) Client 4(33, 5) Client 5(32, 6) Client 6(28, 3) Client 9(37, 4) Client 10(39, 1) Client 11(24, 6) Client 13(35, 2) Client 14(38, 6) Client 15(30, 1) Client 16(37, 4) Client 17(21, 3) Client 19(37, 3) Client 24(31, 1) Client 25(37, 1) Client 28(20, 4) Client 31(26, 4) Client 32(27, 1) Client 33(39, 5) Client 35(35, 6) Client 36(27, 4) Client 37(33, 1) Client 41(27, 2) Client 42(39, 2) Client 44(27, 5) Client 49(28, 5) 
+Casa nr 1: Client 39(17, 3) Client 7(18, 4) 
+Casa nr 2: Client 12(15, 2) Client 21(18, 4) 
+Casa nr 3: Client 45(15, 1) Client 40(18, 1) 
+Casa nr 4: Client 50(17, 3) 
+Casa nr 5: Client 22(16, 4) 
+ 
+Momentul: 19
+Clientii din magazin: Client 1(34, 5) Client 3(26, 3) Client 4(33, 5) Client 5(32, 6) Client 6(28, 3) Client 9(37, 4) Client 10(39, 1) Client 11(24, 6) Client 13(35, 2) Client 14(38, 6) Client 15(30, 1) Client 16(37, 4) Client 17(21, 3) Client 19(37, 3) Client 24(31, 1) Client 25(37, 1) Client 28(20, 4) Client 31(26, 4) Client 32(27, 1) Client 33(39, 5) Client 35(35, 6) Client 36(27, 4) Client 37(33, 1) Client 41(27, 2) Client 42(39, 2) Client 44(27, 5) Client 49(28, 5) 
+Casa nr 1: Client 39(17, 2) Client 7(18, 4) 
+Casa nr 2: Client 12(15, 1) Client 21(18, 4) 
+Casa nr 3: Client 40(18, 1) 
+Casa nr 4: Client 50(17, 2) 
+Casa nr 5: Client 22(16, 3) 
+ 
+Momentul: 20
+Clientii din magazin: Client 1(34, 5) Client 3(26, 3) Client 4(33, 5) Client 5(32, 6) Client 6(28, 3) Client 9(37, 4) Client 10(39, 1) Client 11(24, 6) Client 13(35, 2) Client 14(38, 6) Client 15(30, 1) Client 16(37, 4) Client 17(21, 3) Client 19(37, 3) Client 24(31, 1) Client 25(37, 1) Client 31(26, 4) Client 32(27, 1) Client 33(39, 5) Client 35(35, 6) Client 36(27, 4) Client 37(33, 1) Client 41(27, 2) Client 42(39, 2) Client 44(27, 5) Client 49(28, 5) 
+Casa nr 1: Client 39(17, 1) Client 7(18, 4) 
+Casa nr 2: Client 21(18, 4) 
+Casa nr 3: Client 28(20, 4) 
+Casa nr 4: Client 50(17, 1) 
+Casa nr 5: Client 22(16, 2) 
+ 
+Momentul: 21
+Clientii din magazin: Client 1(34, 5) Client 3(26, 3) Client 4(33, 5) Client 5(32, 6) Client 6(28, 3) Client 9(37, 4) Client 10(39, 1) Client 11(24, 6) Client 13(35, 2) Client 14(38, 6) Client 15(30, 1) Client 16(37, 4) Client 19(37, 3) Client 24(31, 1) Client 25(37, 1) Client 31(26, 4) Client 32(27, 1) Client 33(39, 5) Client 35(35, 6) Client 36(27, 4) Client 37(33, 1) Client 41(27, 2) Client 42(39, 2) Client 44(27, 5) Client 49(28, 5) 
+Casa nr 1: Client 7(18, 4) 
+Casa nr 2: Client 21(18, 3) 
+Casa nr 3: Client 28(20, 3) 
+Casa nr 4: Client 17(21, 3) 
+Casa nr 5: Client 22(16, 1) 
+ 
+Momentul: 22
+Clientii din magazin: Client 1(34, 5) Client 3(26, 3) Client 4(33, 5) Client 5(32, 6) Client 6(28, 3) Client 9(37, 4) Client 10(39, 1) Client 11(24, 6) Client 13(35, 2) Client 14(38, 6) Client 15(30, 1) Client 16(37, 4) Client 19(37, 3) Client 24(31, 1) Client 25(37, 1) Client 31(26, 4) Client 32(27, 1) Client 33(39, 5) Client 35(35, 6) Client 36(27, 4) Client 37(33, 1) Client 41(27, 2) Client 42(39, 2) Client 44(27, 5) Client 49(28, 5) 
+Casa nr 1: Client 7(18, 3) 
+Casa nr 2: Client 21(18, 2) 
+Casa nr 3: Client 28(20, 2) 
+Casa nr 4: Client 17(21, 2) 
+Casa nr 5: 
+ 
+Momentul: 23
+Clientii din magazin: Client 1(34, 5) Client 3(26, 3) Client 4(33, 5) Client 5(32, 6) Client 6(28, 3) Client 9(37, 4) Client 10(39, 1) Client 11(24, 6) Client 13(35, 2) Client 14(38, 6) Client 15(30, 1) Client 16(37, 4) Client 19(37, 3) Client 24(31, 1) Client 25(37, 1) Client 31(26, 4) Client 32(27, 1) Client 33(39, 5) Client 35(35, 6) Client 36(27, 4) Client 37(33, 1) Client 41(27, 2) Client 42(39, 2) Client 44(27, 5) Client 49(28, 5) 
+Casa nr 1: Client 7(18, 2) 
+Casa nr 2: Client 21(18, 1) 
+Casa nr 3: Client 28(20, 1) 
+Casa nr 4: Client 17(21, 1) 
+Casa nr 5: 
+ 
+Momentul: 24
+Clientii din magazin: Client 1(34, 5) Client 3(26, 3) Client 4(33, 5) Client 5(32, 6) Client 6(28, 3) Client 9(37, 4) Client 10(39, 1) Client 13(35, 2) Client 14(38, 6) Client 15(30, 1) Client 16(37, 4) Client 19(37, 3) Client 24(31, 1) Client 25(37, 1) Client 31(26, 4) Client 32(27, 1) Client 33(39, 5) Client 35(35, 6) Client 36(27, 4) Client 37(33, 1) Client 41(27, 2) Client 42(39, 2) Client 44(27, 5) Client 49(28, 5) 
+Casa nr 1: Client 7(18, 1) 
+Casa nr 2: Client 11(24, 6) 
+Casa nr 3: 
+Casa nr 4: 
+Casa nr 5: 
+ 
+Momentul: 25
+Clientii din magazin: Client 1(34, 5) Client 3(26, 3) Client 4(33, 5) Client 5(32, 6) Client 6(28, 3) Client 9(37, 4) Client 10(39, 1) Client 13(35, 2) Client 14(38, 6) Client 15(30, 1) Client 16(37, 4) Client 19(37, 3) Client 24(31, 1) Client 25(37, 1) Client 31(26, 4) Client 32(27, 1) Client 33(39, 5) Client 35(35, 6) Client 36(27, 4) Client 37(33, 1) Client 41(27, 2) Client 42(39, 2) Client 44(27, 5) Client 49(28, 5) 
+Casa nr 1: 
+Casa nr 2: Client 11(24, 5) 
+Casa nr 3: 
+Casa nr 4: 
+Casa nr 5: 
+ 
+Momentul: 26
+Clientii din magazin: Client 1(34, 5) Client 4(33, 5) Client 5(32, 6) Client 6(28, 3) Client 9(37, 4) Client 10(39, 1) Client 13(35, 2) Client 14(38, 6) Client 15(30, 1) Client 16(37, 4) Client 19(37, 3) Client 24(31, 1) Client 25(37, 1) Client 32(27, 1) Client 33(39, 5) Client 35(35, 6) Client 36(27, 4) Client 37(33, 1) Client 41(27, 2) Client 42(39, 2) Client 44(27, 5) Client 49(28, 5) 
+Casa nr 1: Client 3(26, 3) 
+Casa nr 2: Client 11(24, 4) 
+Casa nr 3: Client 31(26, 4) 
+Casa nr 4: 
+Casa nr 5: 
+ 
+Momentul: 27
+Clientii din magazin: Client 1(34, 5) Client 4(33, 5) Client 5(32, 6) Client 6(28, 3) Client 9(37, 4) Client 10(39, 1) Client 13(35, 2) Client 14(38, 6) Client 15(30, 1) Client 16(37, 4) Client 19(37, 3) Client 24(31, 1) Client 25(37, 1) Client 33(39, 5) Client 35(35, 6) Client 37(33, 1) Client 42(39, 2) Client 49(28, 5) 
+Casa nr 1: Client 3(26, 2) Client 44(27, 5) 
+Casa nr 2: Client 11(24, 3) 
+Casa nr 3: Client 31(26, 3) 
+Casa nr 4: Client 36(27, 4) 
+Casa nr 5: Client 41(27, 2) 
+ 
+Momentul: 28
+Clientii din magazin: Client 1(34, 5) Client 4(33, 5) Client 5(32, 6) Client 9(37, 4) Client 10(39, 1) Client 13(35, 2) Client 14(38, 6) Client 15(30, 1) Client 16(37, 4) Client 19(37, 3) Client 24(31, 1) Client 25(37, 1) Client 33(39, 5) Client 35(35, 6) Client 37(33, 1) Client 42(39, 2) 
+Casa nr 1: Client 3(26, 1) Client 44(27, 5) 
+Casa nr 2: Client 11(24, 2) Client 6(28, 3) 
+Casa nr 3: Client 31(26, 2) Client 49(28, 5) 
+Casa nr 4: Client 36(27, 3) 
+Casa nr 5: Client 41(27, 1) 
+ 
+Momentul: 29
+Clientii din magazin: Client 1(34, 5) Client 4(33, 5) Client 5(32, 6) Client 9(37, 4) Client 10(39, 1) Client 13(35, 2) Client 14(38, 6) Client 15(30, 1) Client 16(37, 4) Client 19(37, 3) Client 24(31, 1) Client 25(37, 1) Client 33(39, 5) Client 35(35, 6) Client 37(33, 1) Client 42(39, 2) 
+Casa nr 1: Client 44(27, 5) 
+Casa nr 2: Client 11(24, 1) Client 6(28, 3) 
+Casa nr 3: Client 31(26, 1) Client 49(28, 5) 
+Casa nr 4: Client 36(27, 2) 
+Casa nr 5: 
+ 
+Momentul: 30
+Clientii din magazin: Client 1(34, 5) Client 4(33, 5) Client 5(32, 6) Client 9(37, 4) Client 10(39, 1) Client 13(35, 2) Client 14(38, 6) Client 16(37, 4) Client 19(37, 3) Client 24(31, 1) Client 25(37, 1) Client 33(39, 5) Client 35(35, 6) Client 37(33, 1) Client 42(39, 2) 
+Casa nr 1: Client 44(27, 4) 
+Casa nr 2: Client 6(28, 3) 
+Casa nr 3: Client 49(28, 5) 
+Casa nr 4: Client 36(27, 1) 
+Casa nr 5: Client 15(30, 1) 
+ 
+Momentul: 31
+Clientii din magazin: Client 1(34, 5) Client 4(33, 5) Client 5(32, 6) Client 9(37, 4) Client 10(39, 1) Client 13(35, 2) Client 14(38, 6) Client 16(37, 4) Client 19(37, 3) Client 25(37, 1) Client 33(39, 5) Client 35(35, 6) Client 37(33, 1) Client 42(39, 2) 
+Casa nr 1: Client 44(27, 3) 
+Casa nr 2: Client 6(28, 2) 
+Casa nr 3: Client 49(28, 4) 
+Casa nr 4: Client 24(31, 1) 
+Casa nr 5: 
+ 
+Momentul: 32
+Clientii din magazin: Client 1(34, 5) Client 4(33, 5) Client 9(37, 4) Client 10(39, 1) Client 13(35, 2) Client 14(38, 6) Client 16(37, 4) Client 19(37, 3) Client 25(37, 1) Client 33(39, 5) Client 35(35, 6) Client 37(33, 1) Client 42(39, 2) 
+Casa nr 1: Client 44(27, 2) 
+Casa nr 2: Client 6(28, 1) 
+Casa nr 3: Client 49(28, 3) 
+Casa nr 4: Client 5(32, 6) 
+Casa nr 5: 
+ 
+Momentul: 33
+Clientii din magazin: Client 1(34, 5) Client 9(37, 4) Client 10(39, 1) Client 13(35, 2) Client 14(38, 6) Client 16(37, 4) Client 19(37, 3) Client 25(37, 1) Client 33(39, 5) Client 35(35, 6) Client 42(39, 2) 
+Casa nr 1: Client 44(27, 1) 
+Casa nr 2: Client 4(33, 5) 
+Casa nr 3: Client 49(28, 2) 
+Casa nr 4: Client 5(32, 5) 
+Casa nr 5: Client 37(33, 1) 
+ 
+Momentul: 34
+Clientii din magazin: Client 9(37, 4) Client 10(39, 1) Client 13(35, 2) Client 14(38, 6) Client 16(37, 4) Client 19(37, 3) Client 25(37, 1) Client 33(39, 5) Client 35(35, 6) Client 42(39, 2) 
+Casa nr 1: Client 1(34, 5) 
+Casa nr 2: Client 4(33, 4) 
+Casa nr 3: Client 49(28, 1) 
+Casa nr 4: Client 5(32, 4) 
+Casa nr 5: 
+ 
+Momentul: 35
+Clientii din magazin: Client 9(37, 4) Client 10(39, 1) Client 14(38, 6) Client 16(37, 4) Client 19(37, 3) Client 25(37, 1) Client 33(39, 5) Client 42(39, 2) 
+Casa nr 1: Client 1(34, 4) 
+Casa nr 2: Client 4(33, 3) 
+Casa nr 3: Client 35(35, 6) 
+Casa nr 4: Client 5(32, 3) 
+Casa nr 5: Client 13(35, 2) 
+ 
+Momentul: 36
+Clientii din magazin: Client 9(37, 4) Client 10(39, 1) Client 14(38, 6) Client 16(37, 4) Client 19(37, 3) Client 25(37, 1) Client 33(39, 5) Client 42(39, 2) 
+Casa nr 1: Client 1(34, 3) 
+Casa nr 2: Client 4(33, 2) 
+Casa nr 3: Client 35(35, 5) 
+Casa nr 4: Client 5(32, 2) 
+Casa nr 5: Client 13(35, 1) 
+ 
+Momentul: 37
+Clientii din magazin: Client 10(39, 1) Client 14(38, 6) Client 33(39, 5) Client 42(39, 2) 
+Casa nr 1: Client 1(34, 2) Client 16(37, 4) 
+Casa nr 2: Client 4(33, 1) Client 19(37, 3) 
+Casa nr 3: Client 35(35, 4) Client 25(37, 1) 
+Casa nr 4: Client 5(32, 1) 
+Casa nr 5: Client 9(37, 4) 
+ 
+Momentul: 38
+Clientii din magazin: Client 10(39, 1) Client 33(39, 5) Client 42(39, 2) 
+Casa nr 1: Client 1(34, 1) Client 16(37, 4) 
+Casa nr 2: Client 19(37, 3) 
+Casa nr 3: Client 35(35, 3) Client 25(37, 1) 
+Casa nr 4: Client 14(38, 6) 
+Casa nr 5: Client 9(37, 3) 
+ 
+Momentul: 39
+Clientii din magazin: 
+Casa nr 1: Client 16(37, 4) Client 10(39, 1) 
+Casa nr 2: Client 19(37, 2) Client 33(39, 5) 
+Casa nr 3: Client 35(35, 2) Client 25(37, 1) 
+Casa nr 4: Client 14(38, 5) Client 42(39, 2) 
+Casa nr 5: Client 9(37, 2) 
+ 
+Momentul: 40
+Clientii din magazin: 
+Casa nr 1: Client 16(37, 3) Client 10(39, 1) 
+Casa nr 2: Client 19(37, 1) Client 33(39, 5) 
+Casa nr 3: Client 35(35, 1) Client 25(37, 1) 
+Casa nr 4: Client 14(38, 4) Client 42(39, 2) 
+Casa nr 5: Client 9(37, 1) 
+ 
+Momentul: 41
+Clientii din magazin: 
+Casa nr 1: Client 16(37, 2) Client 10(39, 1) 
+Casa nr 2: Client 33(39, 5) 
+Casa nr 3: Client 25(37, 1) 
+Casa nr 4: Client 14(38, 3) Client 42(39, 2) 
+Casa nr 5: 
+ 
+Momentul: 42
+Clientii din magazin: 
+Casa nr 1: Client 16(37, 1) Client 10(39, 1) 
+Casa nr 2: Client 33(39, 4) 
+Casa nr 3: 
+Casa nr 4: Client 14(38, 2) Client 42(39, 2) 
+Casa nr 5: 
+ 
+Momentul: 43
+Clientii din magazin: 
+Casa nr 1: Client 10(39, 1) 
+Casa nr 2: Client 33(39, 3) 
+Casa nr 3: 
+Casa nr 4: Client 14(38, 1) Client 42(39, 2) 
+Casa nr 5: 
+ 
+Momentul: 44
+Clientii din magazin: 
+Casa nr 1: 
+Casa nr 2: Client 33(39, 2) 
+Casa nr 3: 
+Casa nr 4: Client 42(39, 2) 
+Casa nr 5: 
+ 
+Momentul: 45
+Clientii din magazin: 
+Casa nr 1: 
+Casa nr 2: Client 33(39, 1) 
+Casa nr 3: 
+Casa nr 4: Client 42(39, 1) 
+Casa nr 5: 
+ 
+Momentul: 46
+Clientii din magazin: 
+Casa nr 1: 
+Casa nr 2: 
+Casa nr 3: 
+Casa nr 4: 
+Casa nr 5: 
